@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipfs on RetroWare</title>
+    <link>https://www.retroware.com.br/ipfs/</link>
+    <description>Recent content in Ipfs on RetroWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>Copyright © 2020, Mário Nunes; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 23:17:36 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.retroware.com.br/ipfs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao IPFS</title>
+      <link>https://www.retroware.com.br/ipfs/introducao_ipfs/</link>
+      <pubDate>Thu, 14 May 2020 23:17:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/ipfs/introducao_ipfs/</guid>
+      <description>Sistema de Arquivos Interplanetário.
+ O Que é?  O IPFS como dito trata-se de um sistema de arquivos de proporções globais, trocando em miudos, trata-se de um grade HD.
+Uma explicação técnica pode ser conseguida diretamente de seu principal site: ipfs.io.
+Mas seguindo como dito trata-se de um grande HD, um sistema que se assemelha ao S3 da AWS ou sistemas de arquivos compatíveis, mas o que faz o IPFS tão especial?</description>
+    </item>
+    
+  </channel>
+</rss>

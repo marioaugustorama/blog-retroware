@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on RetroWare</title>
+    <link>https://www.retroware.com.br/blog/</link>
+    <description>Recent content in Blogs on RetroWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>Copyright © 2020, Mário Nunes; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 21:17:22 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.retroware.com.br/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pcem</title>
+      <link>https://www.retroware.com.br/blog/emuladores/pcem/</link>
+      <pubDate>Thu, 14 May 2020 21:17:22 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/pcem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulador_qemu</title>
+      <link>https://www.retroware.com.br/blog/emuladores/qemu/</link>
+      <pubDate>Thu, 14 May 2020 19:36:47 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/qemu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulador_virtualbox</title>
+      <link>https://www.retroware.com.br/blog/emuladores/virtualbox/</link>
+      <pubDate>Thu, 14 May 2020 19:36:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/virtualbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulador_boschs</title>
+      <link>https://www.retroware.com.br/blog/emuladores/boschs/</link>
+      <pubDate>Thu, 14 May 2020 19:12:30 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/boschs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emuladores x86</title>
+      <link>https://www.retroware.com.br/blog/emuladores_x86/</link>
+      <pubDate>Tue, 12 May 2020 20:06:11 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores_x86/</guid>
+      <description>Bem galera, esta sessão iremos apresentar uma gama de emuladores para as mais diversas plataformas. Inicialmente serão apresentados os emuladores para computadores de arquitetura x86.
+   Nome Plataforma Versão     Boschs x86 / x86_64 xxxxxxx   VirtualBox     Qemu     PCem      </description>
+    </item>
+    
+  </channel>
+</rss>

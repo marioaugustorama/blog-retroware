@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RetroWare</title>
+    <link>https://www.retroware.com.br/</link>
+    <description>Recent content on RetroWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>Copyright © 2020, Mário Nunes; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 23:17:36 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.retroware.com.br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introdução ao IPFS</title>
+      <link>https://www.retroware.com.br/ipfs/introducao_ipfs/</link>
+      <pubDate>Thu, 14 May 2020 23:17:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/ipfs/introducao_ipfs/</guid>
+      <description>Sistema de Arquivos Interplanetário.
+ O Que é?  O IPFS como dito trata-se de um sistema de arquivos de proporções globais, trocando em miudos, trata-se de um grade HD.
+Uma explicação técnica pode ser conseguida diretamente de seu principal site: ipfs.io.
+Mas seguindo como dito trata-se de um grande HD, um sistema que se assemelha ao S3 da AWS ou sistemas de arquivos compatíveis, mas o que faz o IPFS tão especial?</description>
+    </item>
+    
+    <item>
+      <title>Pcem</title>
+      <link>https://www.retroware.com.br/blog/emuladores/pcem/</link>
+      <pubDate>Thu, 14 May 2020 21:17:22 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/pcem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulador_qemu</title>
+      <link>https://www.retroware.com.br/blog/emuladores/qemu/</link>
+      <pubDate>Thu, 14 May 2020 19:36:47 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/qemu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulador_virtualbox</title>
+      <link>https://www.retroware.com.br/blog/emuladores/virtualbox/</link>
+      <pubDate>Thu, 14 May 2020 19:36:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/virtualbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emulador_boschs</title>
+      <link>https://www.retroware.com.br/blog/emuladores/boschs/</link>
+      <pubDate>Thu, 14 May 2020 19:12:30 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/boschs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estamos Online</title>
+      <link>https://www.retroware.com.br/post/estamos_online/</link>
+      <pubDate>Thu, 14 May 2020 13:11:30 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/post/estamos_online/</guid>
+      <description>Estamos em construção, em breve novidades.
+Por enquanto acesse nosso serviço de IPFS, já estamos disponibilizando uma grande quantidade de conteúdo.
+Inicialmente a enfase é no catalogo de documentação e software para x86, estendendo posteriormente a outras plataformas.
+Repositório IPFS:
+ Retroware.com.br - Link Direto Ipfs.io  </description>
+    </item>
+    
+    <item>
+      <title>Emuladores x86</title>
+      <link>https://www.retroware.com.br/blog/emuladores_x86/</link>
+      <pubDate>Tue, 12 May 2020 20:06:11 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores_x86/</guid>
+      <description>Bem galera, esta sessão iremos apresentar uma gama de emuladores para as mais diversas plataformas. Inicialmente serão apresentados os emuladores para computadores de arquitetura x86.
+   Nome Plataforma Versão     Boschs x86 / x86_64 xxxxxxx   VirtualBox     Qemu     PCem      </description>
+    </item>
+    
+    <item>
+      <title>get in touch</title>
+      <link>https://www.retroware.com.br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.retroware.com.br/contact/</guid>
+      <description>  Send  </description>
+    </item>
+    
+  </channel>
+</rss>

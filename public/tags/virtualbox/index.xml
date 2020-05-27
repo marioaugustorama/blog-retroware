@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virtualbox on RetroWare</title>
+    <link>https://www.retroware.com.br/tags/virtualbox/</link>
+    <description>Recent content in virtualbox on RetroWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>Copyright © 2020, Mário Nunes; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 19:36:36 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.retroware.com.br/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emulador_virtualbox</title>
+      <link>https://www.retroware.com.br/blog/emuladores/virtualbox/</link>
+      <pubDate>Thu, 14 May 2020 19:36:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/blog/emuladores/virtualbox/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

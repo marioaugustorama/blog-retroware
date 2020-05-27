@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on RetroWare</title>
+    <link>https://www.retroware.com.br/tags/</link>
+    <description>Recent content in Tags on RetroWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>Copyright © 2020, Mário Nunes; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 23:17:36 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.retroware.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ipfs</title>
+      <link>https://www.retroware.com.br/tags/ipfs/</link>
+      <pubDate>Thu, 14 May 2020 23:17:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/ipfs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emuladores</title>
+      <link>https://www.retroware.com.br/tags/emuladores/</link>
+      <pubDate>Thu, 14 May 2020 21:17:22 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/emuladores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pcem</title>
+      <link>https://www.retroware.com.br/tags/pcem/</link>
+      <pubDate>Thu, 14 May 2020 21:17:22 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/pcem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qemu</title>
+      <link>https://www.retroware.com.br/tags/qemu/</link>
+      <pubDate>Thu, 14 May 2020 19:36:47 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/qemu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtualbox</title>
+      <link>https://www.retroware.com.br/tags/virtualbox/</link>
+      <pubDate>Thu, 14 May 2020 19:36:36 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/virtualbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bosch</title>
+      <link>https://www.retroware.com.br/tags/bosch/</link>
+      <pubDate>Thu, 14 May 2020 19:12:30 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/bosch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>x86</title>
+      <link>https://www.retroware.com.br/tags/x86/</link>
+      <pubDate>Tue, 12 May 2020 20:06:11 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/tags/x86/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

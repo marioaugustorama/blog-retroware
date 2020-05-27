@@ -1,0 +1,76 @@
+baseURL = "https://www.retroware.com.br"
+title = "RetroWare"
+copyright = "Copyright © 2020, Mário Nunes; all rights reserved."
+languageCode = "pt_br"
+DefaultContentLanguage = "pt_br" # Change this to change the site's language
+theme = "npq-hugo"
+preserveTaxonomyNames = true
+relativeURLs = true
+sourceRelativeLinksEval = true
+pygmentsUseClasses=true
+
+[markup]
+  [markup.highlight]
+    style = "rrt" # dark themes: monokai, api, fruity, native, rrt, swapoff
+
+    [menu]
+
+      [[menu.main]]
+        name = "home"
+        pre = "<i class=\"fas fa-home fa-sm\"></i>"
+        url = "/"
+        weight = -10
+      [[menu.main]]
+        name = "blog"
+        pre = "<i class=\"fas fa-keyboard fa-ms\"></i>"
+        url = "/blog/"
+        weight = -9
+      [[menu.main]]
+        name = "tags"
+        pre = "<i class=\"fas fa-tags fa-ms\"></i>"
+        url = "/tags"
+        weight = -8
+      [[menu.main]]
+        name = "github"
+        pre = "<i class=\"fab fa-github fa-ms\"></i>"
+        url = "https://github.com/marioaugustorama"
+        weight = -7
+      [[menu.main]]
+        name = "RSS"
+        pre = "<i class=\"fas fa-rss fa-ms\"></i>"
+        url = "/index.xml"
+        weight = -6
+      [[menu.main]]
+        name = "IPFS Repo"
+        pre = "<i class=\"far fa-hdd\"></i>"
+        url = "https://ipfs.retroware.com.br/ipfs/QmaG5nFNZ2qJjUji3zK3vJAPF5RiHcW4XBJLETRt9aUULQ"
+        weight = -4
+      [[menu.main]]
+        name = "IPFS"
+        pre = "<i class=\"fas fa-hdd fa-sm\"></i>"
+        url = "/ipfs/"
+        weight = -5
+  [taxonomies]
+    category = "categories"
+    group = "groups"
+    series = "series"
+    tag = "tags"
+
+  [params.meta]
+    keywords = ""
+    description = "Personal blog."
+
+  [params]
+    author = "Mário Nunes"
+    description = ""
+    keywords = "hugo blog"
+    useAvatar = false
+    microBlogSection = "posts"
+    displayMicroBlog = true
+    displayRecent = false
+    recentMax = 4
+    mail = "mariogar1979 at gmail dot com"
+    phone = "no phone"
+    formspreeID = "yourformspreeID"
+
+    theme_colors = "default-dark"

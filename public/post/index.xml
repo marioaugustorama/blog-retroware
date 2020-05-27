@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RetroWare</title>
+    <link>https://www.retroware.com.br/post/</link>
+    <description>Recent content in Posts on RetroWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt_br</language>
+    <copyright>Copyright © 2020, Mário Nunes; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 14 May 2020 13:11:30 -0300</lastBuildDate>
+    
+	<atom:link href="https://www.retroware.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estamos Online</title>
+      <link>https://www.retroware.com.br/post/estamos_online/</link>
+      <pubDate>Thu, 14 May 2020 13:11:30 -0300</pubDate>
+      
+      <guid>https://www.retroware.com.br/post/estamos_online/</guid>
+      <description>Estamos em construção, em breve novidades.
+Por enquanto acesse nosso serviço de IPFS, já estamos disponibilizando uma grande quantidade de conteúdo.
+Inicialmente a enfase é no catalogo de documentação e software para x86, estendendo posteriormente a outras plataformas.
+Repositório IPFS:
+ Retroware.com.br - Link Direto Ipfs.io  </description>
+    </item>
+    
+  </channel>
+</rss>
