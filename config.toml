@@ -3,6 +3,7 @@ title = "RetroWare"
 copyright = "Copyright © 2020, Mário Nunes; all rights reserved."
 languageCode = "pt_br"
 DefaultContentLanguage = "pt_br" # Change this to change the site's language
+staticDir = "/static"
 theme = "npq-hugo"
 preserveTaxonomyNames = true
 relativeURLs = true
@@ -71,6 +72,6 @@ pygmentsUseClasses=true
     recentMax = 4
     mail = "mariogar1979 at gmail dot com"
     phone = "no phone"
-    formspreeID = "yourformspreeID"
+    #formspreeID = "yourformspreeID"
 
-    theme_colors = "default-dark"
+    #theme_colors = "default-dark"
